@@ -1,0 +1,72 @@
+@media (min-width: 600px) {
+  section,
+  hr {
+    width: 60%;
+  }
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter";
+  font-size: 1rem;
+  color: #030616;
+  background-color: #ffffff;
+}
+
+header {
+  padding-block: 40px;
+}
+
+main {
+  padding: 40px 25px;
+  background-color: #f8fafc;
+}
+
+section {
+  margin: auto;
+}
+
+h1,
+.page_instructions {
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.25em;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+a {
+  color: #4e80ee;
+  text-decoration: none;
+}
+
+hr {
+  height: 2px;
+  border-radius: 10%;
+  border: none;
+  background-color: #d2d5da;
+}
+
+ul,
+ol {
+  padding-block: 12px;
+}
+
+li {
+  line-height: 1.8;
+}
+
+.author-info {
+  text-align: center;
+}
